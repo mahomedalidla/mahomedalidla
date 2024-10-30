@@ -44,6 +44,16 @@ Computer Systems Engineer with solid full-stack development experience, speciali
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"> 
 </span>
 
+<h4> API Integrations </h4>
+<span>
+  <img src="https://img.shields.io/badge/GetCoddy-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-%2312100E.svg?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/ElevenLabs-FF5733?style=for-the-badge&logo=elevenlabs&logoColor=white">
+  <img src="https://img.shields.io/badge/Heygen-009688?style=for-the-badge&logo=heygen&logoColor=white">
+</span>
+
+
 
 
 <hr>
