@@ -6,11 +6,9 @@ Computer Systems Engineer with solid full-stack development experience, speciali
 - 🌱 **Currently Learning:**
   -Expanding my expertise in **Mobile Application Development** using **Flutter** as part of my ongoing professional growth.
 - 💼 **Open to Discussions:** I'm always interested in discussing software development, best practices, and emerging tech trends.
+- My email: mahomedalidla@gmail.com
 
 ## My Skills Include
-
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-
 
 <h4> Languages </h4>
 <span> 
